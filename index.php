@@ -19,6 +19,7 @@
 
 <form>
 
+  <input id="single" type="text" size="50"> 
   <button type="button" class="qrcode-reader" id="openreader-single"
     data-qrr-target="#single"
     data-qrr-audio-feedback="false"
